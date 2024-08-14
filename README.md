@@ -1,0 +1,1 @@
+En el archivo main.py se encuentra la Clase Portafolio que implementa las funcionalidades pedidas. Opté por crear tambien la clase Stock para darle mas sentido al script. Para poder probar el codigo, se debe ejecutar simplmente "python main.py" desde la raiz del repositorio.
